@@ -6,5 +6,5 @@ Up-to-date information about the covid-19 in Poland. Data provided by www.thevir
 
 App created using Tasker.
 
-You can also run this app in Tasker by importing .tsk file or from Tasker Net: [Tasker Net Link](https://taskernet.com/shares/?user=AS35m8lSKxxKA%2BBP3bfWYfXoMj4KGVUWSmU8BeYXmV%2BocBd0hQL%2Fpb%2FxPyw3oDQxLV97QNtn5sRal5IIaQFAEN4%3D&id=Task%3ACoronavirus+Stats)
+You can also run this app in Tasker by importing .tsk file or from Tasker Net: [Coronavirus Stats](https://taskernet.com/shares/?user=AS35m8lSKxxKA%2BBP3bfWYfXoMj4KGVUWSmU8BeYXmV%2BocBd0hQL%2Fpb%2FxPyw3oDQxLV97QNtn5sRal5IIaQFAEN4%3D&id=Task%3ACoronavirus+Stats)
 
