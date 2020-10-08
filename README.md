@@ -1,6 +1,6 @@
 # coronavirus_stats
 
-Up-to-date information about the coronavirus in Poland.
+Up-to-date information about the covid-19 in Poland.
 
 App created using Tasker.
 
