@@ -1,6 +1,6 @@
 # Coronavirus Stats
 
-Up-to-date information about the covid-19 in Poland. Data provided by www.thevirustracker.com.
+Up-to-date information about the covid-19 in Poland. Data provided by https://coronavirus-19-api.herokuapp.com.
 
 ![alt text](https://github.com/DLewy/coronavirus_stats/blob/main/screenshot.jpg?raw=true)
 
